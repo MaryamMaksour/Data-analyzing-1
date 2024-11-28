@@ -28,3 +28,5 @@ A detailed description of the dataset can be found on [the city of Chicago's web
 *   **Hardship Index** (`hardship_index`): Score that incorporates each of the six selected socioeconomic indicators
 
 
+
+#### This lab done by pthon and sql
